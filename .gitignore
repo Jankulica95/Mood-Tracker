@@ -1,0 +1,22 @@
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- React Native / Expo (Mobile) ---
+node_modules/
+.expo/
+dist/
+web-build/
+*.log
+
+# --- .NET (Backend) ---
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+appsettings.json
+appsettings.Development.json
+
+# --- Environment Variables ---
+.env
